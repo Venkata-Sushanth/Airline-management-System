@@ -83,22 +83,4 @@ NB: Make sure dependencies are installed for the project.
 ![This is an image](src/screenshot/payment.png)
 
 
-## 7. Contributing:
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-
-## 8. Adapted From: 
-
-UDEMY: 45 Real World Java Development Projects Bootcamp Course 2022
-
-Java Programming Course: Learn Development Of JAVA Projects Using JSP,JDBC, Servlets, Swing, Spring Boot, Maven, Hibernate
-
-Project Name: Project 3: Airline Management System
-
-Created by: Engineering.Org.In
-
-Last updated: 09/2022
-
-URL: https://www.udemy.com/course/java-programming-project-using-jsp-jdbc-servlets/
 
